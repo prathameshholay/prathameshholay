@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @prathamesh holay
+- 👀 I’m interested in web development/ app development/ creating game trrigers.
+- 🌱 I’m currently learning web development.
+- 💞️ I’m looking to collaborate on various subjects related to programming.
+- 📫 How to reach me ... you can reach me here :- prathameshholay135@gmail.com
